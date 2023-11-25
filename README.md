@@ -28,5 +28,5 @@
 ### Q-обучение (с RL)
 
 - График эффективности: ![График эффективности с RL](image/fitness_progress_rl.png)
-- Результат: ![Тепловая карта с RL](image/itog.jpg)
+- Результат: ![Тепловая карта с RL](image/Figure_1.png)
 - Результаты Q-обучения: [json_results/q_learning_results.json](json_results/results_rl.json)
