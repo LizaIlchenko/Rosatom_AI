@@ -23,13 +23,10 @@
 ### Генетический алгоритм
 
 - График эффективности: ![График эффективности без RL](image/fitness_progress.png)
-- Тепловая карта загрузки печей: ![Тепловая карта без RL](images/load_map_no_rl.png)
-- График моделирования процесса: ![График моделирования без RL](images/modeling_results_no_rl.png)
 - Результаты генетического анализа: [json_results/genetic_algorithm_results.json](json_results/results.json)
 
 ### Q-обучение (с RL)
 
 - График эффективности: ![График эффективности с RL](image/fitness_progress_rl.png)
-- Тепловая карта загрузки печей: ![Тепловая карта с RL](images/load_map_rl.png)
-- График моделирования процесса: ![График моделирования с RL](images/modeling_results_rl.png)
+- Результат: ![Тепловая карта с RL](image/itog.jpg)
 - Результаты Q-обучения: [json_results/q_learning_results.json](json_results/results_rl.json)
