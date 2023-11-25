@@ -22,11 +22,11 @@
 
 ### Генетический алгоритм
 
-- ![График эффективности без RL](image/fitness_progress.png)
+ ![График эффективности без RL](image/fitness_progress.png)
 - Результаты генетического анализа: [json_results/genetic_algorithm_results.json](json_results/results.json)
 
 ### Q-обучение (с RL)
 
-- ![График эффективности с RL](image/fitness_progress_rl.png)
+![График эффективности с RL](image/fitness_progress_rl.png)
 - Результат: ![Тепловая карта с RL](image/Figure_1.png)
 - Результаты Q-обучения: [json_results/q_learning_results.json](json_results/results_rl.json)
