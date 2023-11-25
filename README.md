@@ -22,7 +22,7 @@
 
 ### Генетический алгоритм
 
-- График эффективности: ![График эффективности без RL](images/fitness_progress.png)
+- График эффективности: ![График эффективности без RL](image/fitness_progress.png)
 - Тепловая карта загрузки печей: ![Тепловая карта без RL](images/load_map_no_rl.png)
 - График моделирования процесса: ![График моделирования без RL](images/modeling_results_no_rl.png)
 - Результаты генетического анализа: [json_results/genetic_algorithm_results.json](json_results/genetic_algorithm_results.json)
